@@ -1,0 +1,14 @@
+# Quartus & ModelSim ignores
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.ppf
+*.ddb
+*.qws
+*.v
+*.bak
+work/
+transcript
+vsim.wlf

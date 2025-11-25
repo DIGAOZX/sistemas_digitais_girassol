@@ -1,0 +1,24 @@
+Quartus II Archive log --	C:/Users/usuario/Desktop/Projeto_Final SD/Girasol_FINAL_DE2.qarlog
+
+Archive:	C:/Users/usuario/Desktop/Projeto_Final SD/Girasol_FINAL_DE2.qar
+Date:		Mon Nov 17 23:52:44 2025
+Quartus II 32-bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/usuario/Desktop/Projeto_Final SD/Girasol_RTL.qpf
+C:/Users/usuario/Desktop/Projeto_Final SD/Girasol_RTL.qsf
+C:/Users/usuario/Desktop/Projeto_Final SD/Girasol_RTL.vhd
+C:/Users/usuario/Desktop/Projeto_Final SD/MovingAverageFilter.vhd
+C:/Users/usuario/Desktop/Projeto_Final SD/incremental_db/compiled_partitions/Girasol_RTL.db_info
+C:/Users/usuario/Desktop/Projeto_Final SD/tb_Girasol.vhd
+c:/altera/13.0sp1/quartus/bin/assignment_defaults.qdf
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Mon Nov 17 23:54:24 2025
+Source archive file:	C:/Users/usuario/Desktop/Projeto_Final SD/Girasol_FINAL_DE2.qar
+Archive was extracted into	C:/Users/usuario/Desktop/Projeto_Final SD/Girasol_FINAL_DE2_restored/
+		 - successfully.
