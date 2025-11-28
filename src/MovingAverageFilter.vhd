@@ -25,7 +25,7 @@ begin
     -- Aqui guardamos as últimas 4 leituras do sensor
     process(clk, rst)
     begin
-        if rst = '1' then
+        if rst = '0' then
             reg0 <= (others => '0');
             reg1 <= (others => '0');
             reg2 <= (others => '0');
