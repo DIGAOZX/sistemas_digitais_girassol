@@ -72,7 +72,7 @@ begin
     -- Processo A: Memória de Estado 
     process(clk, rst)
     begin
-        if rst = '1' then
+        if rst = '0' then
             estado_atual <= PARADO;
         elsif rising_edge(clk) then
             estado_atual <= proximo_estado;
